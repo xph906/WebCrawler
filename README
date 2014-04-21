@@ -1,0 +1,11 @@
+Crwaler: 
+
+Lack of interface.
+
+1. Enter all the urls in file data/url_list
+2. Create XPI file. 
+		1). If you have Firefox SDK installed, do "cfx xpi" and then you have a file called cralwler.xpi
+		2). Or us zip to compress the folder and rename it to xx.xpi.
+
+3. Once having it installed, you can find three icons in the right corner of  		
+	Firefox,click the left one.
